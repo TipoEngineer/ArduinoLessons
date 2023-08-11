@@ -18,7 +18,7 @@ struct myStruct
     boolean a;
     int b;
     float c;
-    byte arr{3};
+    byte arr[3];
 };
 
 myStruct kek; // Создаём структуру kek
@@ -33,5 +33,5 @@ void setup(){
 }
 
 void loop(){
-    
+
 }
